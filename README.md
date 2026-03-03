@@ -35,6 +35,7 @@ To develop an intelligent system that:
 - Preprocessing: **StandardScaler**
 - Input Features: **20**
 - Output Classes: **4**
+- ✅ Accuracy: **96%**
 
 ---
 
